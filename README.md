@@ -53,12 +53,16 @@ To ensure you’re working on the latest version of the project, you should pull
     git pull
     ```
 
-## 5. Open and Edit the Project in NetBeans
+## 5. Open and Edit the Project in collab or other IDE 
 
-- Launch NetBeans and open the project from the directory where you cloned it.
-- Make your changes to the project files as needed.
+- Launch collab and open the project where is stored in your drive.
+- Make your changes to the project (collab).
 
-## 6. Commit and Push Your Changes
+## 6. Download your collab file from the drive
+- Download your your collab file and put him where your cloned the project.
+- In the aim to push your change in github. 
+
+## 7. Commit and Push Your Changes
 
 After making your changes, push them to the remote repository:
 
