@@ -2,7 +2,6 @@
 Machine Learning Project 2023
 # GitHub Collaboration Guide
 
-This guide assumes that the project is set up on GitHub and the team members are collaborators. The project is a Java project developed in NetBeans. We focus on direct collaboration in the `main` branch, which is not the standard approach for larger/more complex projects but is simpler for beginners or smaller teams.
 
 ## 1. Generate a Personal Access Token on GitHub
 
