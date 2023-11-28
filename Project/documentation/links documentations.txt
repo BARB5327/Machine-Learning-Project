@@ -1,0 +1,2 @@
+NTLK : https://www.nltk.org/
+Optimizer: https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
