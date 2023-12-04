@@ -8,5 +8,8 @@ To find the most accurate models we have to try differents models and parameters
 
 We will write our evolution in a table of progress where will speak about the of the group, the differents models that we test and the differents parameters. Furthermore we'll do an interactive interface to show our results with streamlit, and present a video with our results during the last session of this course in december. 
 
+https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2023/overview
+
+![Logo_Université_de_Lausanne svg](https://github.com/BARB5327/Machine-Learning-Project-UNIL_TUDOR/assets/75091137/9965ca3e-83ee-40ec-bd80-6ce421757791)
 
 
