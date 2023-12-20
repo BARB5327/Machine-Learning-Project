@@ -1,3 +1,6 @@
 NTLK : https://www.nltk.org/
 Optimizer: https://towardsdatascience.com/optimizers-for-training-neural-network-59450d71caf6
 LSTM: https://www.analyticsvidhya.com/blog/2021/06/lstm-for-text-classification/
+BERT: https://towardsdatascience.com/bert-3d1bf880386a
+      https://medium.com/@khang.pham.exxact/text-classification-with-bert-7afaacc5e49b
+
