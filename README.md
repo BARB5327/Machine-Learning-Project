@@ -37,7 +37,9 @@ In our app streamlit you can type a senetence and then, it will predict the diff
 
 ![image](https://github.com/BARB5327/Machine-Learning-Project-UNIL_TUDOR/assets/75091137/e128c088-1778-4420-b912-287528993c18)
 
-#Contact us 
+## Youtube video 
+This is the link to the youtube video : https://www.youtube.com/watch?v=xfMngmtuoGc
+# Contact us 
 If you have any remark, suggrestion or questions don't hesitate to contact : Alessandro BARBIERI by mail alessandro.barbieri@unil.ch
 ![Logo_Université_de_Lausanne svg](https://github.com/BARB5327/Machine-Learning-Project-UNIL_TUDOR/assets/75091137/9965ca3e-83ee-40ec-bd80-6ce421757791)
 
