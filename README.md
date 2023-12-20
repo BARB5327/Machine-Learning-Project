@@ -12,7 +12,7 @@ On this GITHUB we create a kind of schedule do be aware what to do and. This is 
 
 ## Structure of the GITHUB
 We will write our evolution in a table of progress where will speak about the of the group, the differents models that we test and the differents parameters. Furthermore we'll do an interactive interface to show our results with streamlit, and present a video with our results available on this link :https://www.youtube.com/watch?v=xfMngmtuoGc
-You can find our models in the models section of the project. If you want to find the documentation that help us for this project, you have to go on the documentation section. Unfortunately the code of our Streamlit app is not available in the project because the latter is too heavy. If you want to discover the code of this app, send me an email at :alessandro.barbieri@unil.ch and we will share you the streamlit app.
+You can find our models in the models section of the project. If you want to find the documentation that help us for this project, you have to go on the documentation section. Unfortunately the code of our Streamlit app is not available in the project because the latter is too heavy. If you want to discover the code of this app, send me an email at :alessandro.barbieri@unil.ch and we will share you the streamlit app or you can click on this link : https://drive.google.com/drive/folders/14jXji8eeCZRpP5WAOhvc6OSE2dGx7qKZ?usp=drive_link
 
 However you can see how the app work in our youtube presentation. 
 
