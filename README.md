@@ -7,7 +7,8 @@ To find the most accurate models we have to try differents models and parameters
 
 ## Orgisation in the group 
 On this GITHUB we create a kind of schedule do be aware what to do and. This is our schedule. 
-![image](https://github.com/BARB5327/Machine-Learning-Project-UNIL_TUDOR/assets/75091137/627afd2d-d92a-402b-a4fa-1d10e0c78eb0)
+![image](https://github.com/BARB5327/Machine-Learning-Project-UNIL_TUDOR/assets/75091137/fe1a4224-6ecd-4809-8033-e0431cf63c66)
+
 
 ## Structure of the GITHUB
 We will write our evolution in a table of progress where will speak about the of the group, the differents models that we test and the differents parameters. Furthermore we'll do an interactive interface to show our results with streamlit, and present a video with our results available on this link :https://www.youtube.com/watch?v=xfMngmtuoGc
