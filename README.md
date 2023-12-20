@@ -28,7 +28,13 @@ Here you can see a recap from our results. You can see some metrics on the train
 
 ### Here a graph to represent to you these results 
 ![newplot](https://github.com/BARB5327/Machine-Learning-Project-UNIL_TUDOR/assets/75091137/4fa94235-8f8c-468b-a3cb-315743ccc36c)
+## App Streamlit 
+In our app streamlit you can type a senetence and then, it will predict the difficulty of the sentence. 
 
+![image](https://github.com/BARB5327/Machine-Learning-Project-UNIL_TUDOR/assets/75091137/e128c088-1778-4420-b912-287528993c18)
+
+#Contact us 
+If you have any remark, suggrestion or questions don't hesitate to contact : Alessandro BARBIERI by mail alessandro.barbieri@unil.ch
 ![Logo_Université_de_Lausanne svg](https://github.com/BARB5327/Machine-Learning-Project-UNIL_TUDOR/assets/75091137/9965ca3e-83ee-40ec-bd80-6ce421757791)
 
 
