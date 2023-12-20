@@ -16,11 +16,16 @@ In this project your can find our table of progress file with all the others fol
 
 ## Methodology 
 For this project we begin to do some research for the best models. And we decide to try some models. These models are KNN, Logistic Regression, Random Forest and Decision Tree. These models can be used for classification and are not so complex. We wanted to see how good they were. This models are explains on the table of progress as the part1 of our project. Then the part 2 is composed of CNN, LSTM, BERT and Camembert models. These ones are more complex and are energy intensive. 
-# Models in part 1 
+### Models in part 1 
 We use tfidf vector to vectorize the sentences and then their own classifier. And also some other method to try to optimize the models like stop words for the Logistic Regression. We want to know more about what we did with these stop words ? You know where to go --> Models in our project folder. 
 
-# Model in part 2 
-For the models in part2 we 
+### Model in part 2 
+For the models in part2 we use a label encoder to encode the difficulty level as figure from 0 to 5 for our 5 labels. And then we configure our models to train and then evaluate the model. We use also some tensors and tokenization like the Camembert tokenizer specialized for french sentences. 
+
+##Results 
+
+![image](https://github.com/BARB5327/Machine-Learning-Project-UNIL_TUDOR/assets/75091137/b9ebcc07-3e7a-4cd6-a022-121494557628)
+
 
 ![Logo_Université_de_Lausanne svg](https://github.com/BARB5327/Machine-Learning-Project-UNIL_TUDOR/assets/75091137/9965ca3e-83ee-40ec-bd80-6ce421757791)
 
