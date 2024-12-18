@@ -1,6 +1,6 @@
 # Machine-Learning-Project 2023 
 ## Presentation of the projetct
-Welcome to the file of progress for the Machine Learning Project of Data Science and Machine Learning course of the University of Lausanne. Our Machine Learning problem is about assesing sentence difficulty.The team of this repository is composed of Alessandro BARBIERI and Taylan SAHIN.
+Welcome to the file of progress for the Machine Learning Project of Data Science and Machine Learning course of the University of Lausanne. Our Machine Learning problem is about assesing sentence difficulty.The team of this repository is composed of Alessandro BARBIERI.
 
 We have a dataset with some senteces in french and their difficulties levels. We have to train this model to create our own model in aim to predict the most accurate possible an other dataset with other sentences. 
 To find the most accurate models we have to try differents models and parameters to find the best one. There is a ranking for this profect with all the members and you can find the evolution of this competition and support us.  https://www.kaggle.com/competitions/detecting-french-texts-difficulty-level-2023/overview
